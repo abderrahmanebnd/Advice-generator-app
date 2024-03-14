@@ -1,5 +1,5 @@
-Expense Chart Component
-This project is a React.js solution for the Expense Chart Component challenge from Frontend Mentor.
+Advice-generator-app
+This project is a React.js solution for the Advice-generator-app challenge from Frontend Mentor.
 
 Technologies Used
 React.js
